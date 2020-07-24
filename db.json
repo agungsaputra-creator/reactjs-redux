@@ -4,72 +4,84 @@
       "id": 1,
       "nama": "Indryad Praja",
       "alamat": "Padang",
+      "umur": 24,
       "nohp": "081234567890"
     },
     {
       "id": 2,
       "nama": "Ahmad Ibnu Sina",
       "alamat": "Tangerang",
+      "umur": 24,
       "nohp": "123456789010"
     },
     {
       "id": 3,
       "nama": "Cinta Paramita",
       "alamat": "Sumedang",
+      "umur": 24,
       "nohp": "098765432112"
     },
     {
       "id": 4,
       "nama": "Indryad Praja",
       "alamat": "Padang",
+      "umur": 24,
       "nohp": "081234567890"
     },
     {
       "id": 5,
       "nama": "Ahmad Ibnu Sina",
       "alamat": "Tangerang",
+      "umur": 24,
       "nohp": "123456789010"
     },
     {
       "id": 6,
       "nama": "Cinta Paramita",
       "alamat": "Sumedang",
+      "umur": 24,
       "nohp": "098765432112"
     },
     {
       "id": 7,
       "nama": "Indryad Praja",
       "alamat": "Padang",
+      "umur": 24,
       "nohp": "081234567890"
     },
     {
       "id": 8,
       "nama": "Ahmad Ibnu Sina",
       "alamat": "Tangerang",
+      "umur": 24,
       "nohp": "123456789010"
     },
     {
       "id": 9,
       "nama": "Cinta Paramita",
       "alamat": "Sumedang",
+      "umur": 24,
       "nohp": "098765432112"
     },
     {
       "id": 10,
       "nama": "Indryad Praja",
       "alamat": "Padang",
+      "umur": 24,
       "nohp": "081234567890"
     },
     {
       "id": 11,
       "nama": "Ahmad Ibnu Sina",
       "alamat": "Tangerang",
+      "umur": 24,
       "nohp": "123456789010"
     },
     {
       "id": 12,
       "nama": "Cinta Paramita",
       "alamat": "Sumedang",
+      "umur": 24,
       "nohp": "098765432112"
     }
   ]
